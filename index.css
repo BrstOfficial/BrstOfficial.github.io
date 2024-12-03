@@ -14,6 +14,28 @@
   margin: 212px auto 0;
   padding: 55px 213px 56px 212px;
 }
+.text-3 {
+  position: fixed; /* Sticks to a fixed spot */
+  bottom: 29%; /* Moves the text to the bottom */
+  left: 100%; /* Starts off-screen to the right */
+  white-space: nowrap; /* Prevents text wrapping */
+  font-size: 18px; /* Adjust font size */
+  color: #ff0000; /* Bright red color for visibility */
+  background-color: #000000; /* Black background for contrast */
+  padding: 10px; /* Adds padding around text */
+  border-radius: 5px; /* Rounds the edges */
+  animation: scrollText 10s linear infinite; /* Smooth scrolling animation */
+  z-index: 9999; /* Ensures it stays on top of other elements */
+}
+
+@keyframes scrollText {
+  0% {
+    transform: translateX(0); /* Starts at the original position */
+  }
+  100% {
+    transform: translateX(-150%); /* Moves completely off the screen to the left */
+  }
+}
 
 .u-section-1 .u-text-2 {
   margin: 0 auto;
