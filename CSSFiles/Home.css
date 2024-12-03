@@ -1,0 +1,384 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 855px;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  margin-top: 0;
+  margin-bottom: 60px;
+}
+
+.u-section-1 .u-layout-cell-1 {
+  min-height: 798px;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 21px 0;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 28px 332px 0 42px;
+  left: -5%;
+  top: 0%;
+}
+
+.Eaglercraft {
+  position: absolute;
+  top: 20%;           /* Adjust vertical position */
+  left: -100%;          /* Adjust horizontal position */
+  transform: translate(-50%, -50%); /* Optional: Center the content */
+  text-align: center; /* Ensures text is aligned to the center */
+}
+
+.Eaglercraft p {
+  font-size: 24px;
+  color: #ffffff;
+  margin-bottom: 20px;
+}
+
+.Eaglercraft a {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  font-size: 18px;
+  transition: background-color 0.3s;
+}
+
+.Eaglercraft a:hover {
+  background-color: #0056b3;
+}
+
+
+.u-section-1 .u-form-1 {
+  height: 408px;
+  margin: 10px 56px 0 28px;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 57px 10px 0;
+  top: -4%;
+}
+
+.u-section-1 .u-btn-4 {
+  border-style: solid;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin: 6px auto 0;
+  left: -30%;
+  top: -3%;
+  transition: background-color 0.7s ease;
+      }
+
+      /* Hover effect for the button */
+      #redirectButton:hover {
+          background-color: #203cf1;
+      }
+
+.u-section-1 .u-btn-7 {
+  border-style: solid;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin: 6px auto 0;
+  left: -23%;
+  top: -3%;
+}
+
+.u-section-1 .u-layout-cell-2 {
+  min-height: 359px;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 0;
+}
+
+.u-section-1 .u-text-3 {
+  margin: 30px 30px 0;
+  bottom: 71%;
+}
+
+.u-section-1 .u-image-1 {
+  width: 413px;
+  height: 135px;
+  margin: 0 auto 0 0;
+  bottom: 66%;
+}
+
+.u-section-1 .u-layout-cell-3 {
+  min-height: 439px;
+}
+
+.u-section-1 .u-container-layout-3 {
+  padding: 30px;
+}
+
+.u-section-1 .u-text-4 {
+  margin: 0 auto;
+  left: -29%;
+  bottom: 66%;
+}
+
+.u-section-1 .u-btn-5 {
+  background-image: linear-gradient(to right, #000bff, #f24dff);
+  border-style: solid;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 0px;
+  margin: 20px auto 0 60px;
+  padding: 9px 40px 9px 39px;
+  bottom: 25%;
+  right: 13%;
+  transition: background-image 0.9s ease; /* Smooth transition for color change */
+}
+
+.u-section-1 .u-btn-5:hover {
+  background-image: linear-gradient(to right, #f85353, #ff9595); /* Red gradient on hover */
+}
+
+
+.u-section-1 .u-btn-6 {
+  background-image: linear-gradient(to right, #000bff, #f24dff);
+  border-style: solid;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 0px;
+  margin: -44px 60px 0 auto;
+  padding: 9px 0;
+  bottom: 36.5%;
+  left: -27%;
+  transition: background-image 0.9s ease; /* Smooth transition for color change */
+}
+
+.u-section-1 .u-btn-6:hover {
+  background-image: linear-gradient(to right, #fd981e, #ffd080); /* Red gradient on hover */
+}
+
+.u-section-1 .u-social-icons-1 {
+  height: 44px;
+  min-height: 16px;
+  width: 44px;
+  min-width: 16px;
+  margin: 144px auto 0 167px;
+  
+}
+
+.u-section-1 .u-icon-1 {
+  color: rgb(197, 54, 164) !important;
+  height: 32px;
+ 
+}
+
+.u-section-1 .u-text-5 {
+  margin: -36px auto 0 60px;
+  right: -300%;
+  bottom: 1350%;;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 436px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    position: relative;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 658px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 274px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-form-1 {
+    width: 470px;
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 0;
+    margin-left: 78px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 296px;
+  }
+
+  .u-section-1 .u-layout-cell-3 {
+    min-height: 362px;
+  }
+
+  .u-section-1 .u-btn-5 {
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-btn-6 {
+    margin-top: 20px;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 253px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 164px;
+  }
+
+  .u-section-1 .u-form-1 {
+    width: 360px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 360px;
+    height: 118px;
+  }
+
+  .u-section-1 .u-layout-cell-3 {
+    min-height: 100px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 580px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: 20px;
+  }
+
+  .u-section-1 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 439px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-form-1 {
+    width: 340px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 340px;
+    height: 111px;
+  }
+}
+
+/* Basic button styles */
+.u-btn-9 {
+  display: inline-block;               /* Make sure it behaves like a button */
+  padding: 9px 17px;                   /* Padding for the button */
+  font-size: 16px;                      /* Font size */
+  font-weight: 600;                     /* Bold text */
+  text-align: center;                   /* Center text */
+  text-decoration: none;                /* Remove underline from the link */
+  border-radius: 4px;                   /* Rounded corners */
+  transition: all 0.3s ease;            /* Smooth transition for background and color */
+  color: white;                         /* Text color */
+  background: linear-gradient(45deg, #00f261, hsla(99, 92%, 71%, 0.953)); /* Gradient background */
+  border: 2px solid #ddd;               /* Light border color */
+  bottom: 33.8%;
+  left: 68.6%;
+  height: 44px;
+}
+
+
+
+/* Hover effect */
+.u-btn-9:hover {
+  background: linear-gradient(45deg, #13b24080, #0fa374);  /* Reverse gradient on hover */
+  color: #fff;                             /* Text color stays white */
+  transform: scale(1.05);                  /* Slightly grow the button */
+}
+
+/* Active/pressed state */
+.u-btn-9:active {
+  transform: scale(0.98);                   /* Make it shrink slightly when clicked */
+  box-shadow: 0px 4px 8px rgba(255, 7, 7, 0.125); /* Add a subtle shadow when clicked */
+}
+
+/* Focus (when the user clicks or tabs to the button) */
+.u-btn-5:focus {
+  outline: none;                           /* Remove outline for focus */
+  box-shadow: 0 0 10px rgba(0, 0, 255, 0.5); /* Add a blue shadow when focused */
+}
+
+        /* Styles for the button */
+        #redirectButton {
+          padding: 15px 30px;
+          background-color: #c637ff;
+          color: white;
+          border: none;
+          border-radius: 5px;
+          font-size: 18px;
+          cursor: pointer;
+          position: absolute; /* Allows you to move the button */
+          top: 20%; /* Adjust the position vertically */
+          left: 91%; /* Adjust the position horizontally */
+          transform: translate(-50%, -50%); /* Centers the button */
+          transition: background-color 0.5s ease;
+      }
+
+      /* Hover effect for the button */
+      #redirectButton:hover {
+          background-color: #203cf1;
+      }
+
+       /* Styles for the button */
+       #redirectButton2 {
+        padding: 15px 30px;
+        background-color: #fff700;
+        color: black;
+        border: none;
+        border-radius: 5px;
+        font-size: 18px;
+        cursor: pointer;
+        position: absolute; /* Allows you to move the button */
+        top: 25%; /* Adjust the position vertically */
+        left: 91%;   /* Adjust the position horizontally */
+        width: 14.7%; 
+        transform: translate(-50%, -50%); /* Centers the button */
+        transition: background-color 0.5s ease;
+    }
+
+    /* Hover effect for the button */
+    #redirectButton2:hover {
+        background-color: #fac23e;
+    }
+
+    .stone-formc {
+      position: absolute; /* Allows manual positioning */
+      top: 270px;          /* Adjust vertical position */
+      left: -114%;        /* Adjust horizontal position */
+      width: 400px;       /* Set the width of the image */
+      height: auto;       /* Keep the aspect ratio */
+      border: 2px solid #000; /* Optional: Add a border to the image */
+      border-radius: 5px; /* Optional: Rounded corners */
+  }
